@@ -22,3 +22,6 @@
 - Git & Github 
 - Adobe Photoshop and illustratore (Moyane)
 -  Adobe Premiere Pro (Basic)
+
+
+[markdown emoji]([https://www.example.com](https://github.com/ikatyang/emoji-cheat-sheet#book-paper)
