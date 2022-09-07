@@ -1,4 +1,3 @@
-# SQUAD 1
 
 ## MAROUANE TABIB
 ##### :telephone_receiver: 0708409023 | :envelope: tabibmarouane6@gamil.com
@@ -22,6 +21,3 @@
 - Git & Github 
 - Adobe Photoshop and illustratore (Moyane)
 -  Adobe Premiere Pro (Basic)
-
-
-[markdown emoji]([https://www.example.com](https://github.com/ikatyang/emoji-cheat-sheet#book-paper)
