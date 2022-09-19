@@ -1,3 +1,3 @@
 
 ## MAROUANE TABIB
-elope: tabibmarouane6@gamil.com
+tabibmarouane6@gamil.com
