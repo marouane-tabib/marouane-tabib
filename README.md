@@ -72,11 +72,11 @@ I'm skilled in using the latest technologies such as HTML, CSS (including Sass),
     </a> 
 </p>
 
-<h5>Check the programming languages I use the most and my GitHub statistics using the following cards:</h5>
+<!-- <h5>Check the programming languages I use the most and my GitHub statistics using the following cards:</h5>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouane-tabib&show_icons=true&locale=en&layout=compact" alt="marouane-tabib" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=marouane-tabib&show_icons=true&locale=en" alt="marouane-tabib" />
-</p>
+</p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-tabib&" alt="marouane-tabib" /></p> -->
 
