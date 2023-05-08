@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marouane-tabib&label=Profile%20views&color=0e75b6&style=flat" alt="marouane-tabib" /> </p>
-I am a web developer with experience of developing front-end and back-end responsive website applications.
+I am a full-stack web developer with experience of developing front-end and back-end responsive website applications.
 I'm skilled in using the latest technologies such as HTML, CSS (including Sass), JavaScript, jQuery, AJAX, PHP, and Laravel, I'm good at creating effective database functionality architectures, I invite you to explore my portfolio of projects and coding methods on my GitHub page.
 <br>
 
