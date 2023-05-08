@@ -8,7 +8,7 @@ I'm skilled in using the latest technologies such as HTML, CSS (including Sass),
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marouane-tabib" alt="marouane-tabib" /></a> </p> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h6 align="left">Languages and Tools:</h6>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -72,10 +72,11 @@ I'm skilled in using the latest technologies such as HTML, CSS (including Sass),
     </a> 
 </p>
 
-first
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouane-tabib&show_icons=true&locale=en&layout=compact" alt="marouane-tabib" /></p>
-secound
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marouane-tabib&show_icons=true&locale=en" alt="marouane-tabib" /></p>
+<h5>Check the programming languages I use the most and my GitHub statistics using the following cards:</h5>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouane-tabib&show_icons=true&locale=en&layout=compact" alt="marouane-tabib" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marouane-tabib&show_icons=true&locale=en" alt="marouane-tabib" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-tabib&" alt="marouane-tabib" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-tabib&" alt="marouane-tabib" /></p> -->
 
